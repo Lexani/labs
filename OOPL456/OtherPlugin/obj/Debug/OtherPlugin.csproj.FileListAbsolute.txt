@@ -1,0 +1,4 @@
+D:\Projects\C#\OOPL\OtherPlugin\bin\Debug\OtherPlugin.dll
+D:\Projects\C#\OOPL\OtherPlugin\bin\Debug\OtherPlugin.pdb
+D:\Projects\C#\OOPL\OtherPlugin\obj\Debug\OtherPlugin.dll
+D:\Projects\C#\OOPL\OtherPlugin\obj\Debug\OtherPlugin.pdb

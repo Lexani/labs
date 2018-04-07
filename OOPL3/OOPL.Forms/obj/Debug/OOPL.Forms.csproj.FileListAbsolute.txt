@@ -1,0 +1,22 @@
+D:\Projects\C#\OOPL\OOPL.Forms\bin\Debug\OOPL.Forms.exe.config
+D:\Projects\C#\OOPL\OOPL.Forms\bin\Debug\OOPL.Forms.exe
+D:\Projects\C#\OOPL\OOPL.Forms\bin\Debug\OOPL.Forms.pdb
+D:\Projects\C#\OOPL\OOPL.Forms\bin\Debug\BLL.dll
+D:\Projects\C#\OOPL\OOPL.Forms\bin\Debug\BLL.pdb
+D:\Projects\C#\OOPL\OOPL.Forms\obj\Debug\OOPL.Forms.csprojResolveAssemblyReference.cache
+D:\Projects\C#\OOPL\OOPL.Forms\obj\Debug\OOPL.Forms.Form1.resources
+D:\Projects\C#\OOPL\OOPL.Forms\obj\Debug\OOPL.Forms.Properties.Resources.resources
+D:\Projects\C#\OOPL\OOPL.Forms\obj\Debug\OOPL.Forms.csproj.GenerateResource.Cache
+D:\Projects\C#\OOPL\OOPL.Forms\obj\Debug\OOPL.Forms.exe
+D:\Projects\C#\OOPL\OOPL.Forms\obj\Debug\OOPL.Forms.pdb
+d:\Projects\labs oop\OOPL3\OOPL.Forms\bin\Debug\OOPL.Forms.exe.config
+d:\Projects\labs oop\OOPL3\OOPL.Forms\obj\Debug\OOPL.Forms.exe
+d:\Projects\labs oop\OOPL3\OOPL.Forms\obj\Debug\OOPL.Forms.pdb
+d:\Projects\labs oop\OOPL3\OOPL.Forms\bin\Debug\OOPL.Forms.exe
+d:\Projects\labs oop\OOPL3\OOPL.Forms\bin\Debug\OOPL.Forms.pdb
+d:\Projects\labs oop\OOPL3\OOPL.Forms\bin\Debug\BLL.dll
+d:\Projects\labs oop\OOPL3\OOPL.Forms\bin\Debug\BLL.pdb
+d:\Projects\labs oop\OOPL3\OOPL.Forms\obj\Debug\OOPL.Forms.csprojResolveAssemblyReference.cache
+d:\Projects\labs oop\OOPL3\OOPL.Forms\obj\Debug\OOPL.Forms.Form1.resources
+d:\Projects\labs oop\OOPL3\OOPL.Forms\obj\Debug\OOPL.Forms.Properties.Resources.resources
+d:\Projects\labs oop\OOPL3\OOPL.Forms\obj\Debug\OOPL.Forms.csproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPL12.BLL", "OOPL12.BLL\OOPL12.BLL.csproj", "{FEC3420C-E96B-4EC8-AB02-9166D92645FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPL12.Forms", "OOPL12.Forms\OOPL12.Forms.csproj", "{70D7CECF-1813-4A01-A3A6-D7853DFAA9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC3420C-E96B-4EC8-AB02-9166D92645FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC3420C-E96B-4EC8-AB02-9166D92645FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC3420C-E96B-4EC8-AB02-9166D92645FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC3420C-E96B-4EC8-AB02-9166D92645FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D7CECF-1813-4A01-A3A6-D7853DFAA9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D7CECF-1813-4A01-A3A6-D7853DFAA9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D7CECF-1813-4A01-A3A6-D7853DFAA9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D7CECF-1813-4A01-A3A6-D7853DFAA9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

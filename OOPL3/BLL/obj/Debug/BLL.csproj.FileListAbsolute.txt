@@ -1,0 +1,10 @@
+D:\Projects\C#\OOPL\BLL\bin\Debug\BLL.dll
+D:\Projects\C#\OOPL\BLL\bin\Debug\BLL.pdb
+D:\Projects\C#\OOPL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Projects\C#\OOPL\BLL\obj\Debug\BLL.dll
+D:\Projects\C#\OOPL\BLL\obj\Debug\BLL.pdb
+d:\Projects\labs oop\OOPL3\BLL\bin\Debug\BLL.dll
+d:\Projects\labs oop\OOPL3\BLL\bin\Debug\BLL.pdb
+d:\Projects\labs oop\OOPL3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+d:\Projects\labs oop\OOPL3\BLL\obj\Debug\BLL.dll
+d:\Projects\labs oop\OOPL3\BLL\obj\Debug\BLL.pdb

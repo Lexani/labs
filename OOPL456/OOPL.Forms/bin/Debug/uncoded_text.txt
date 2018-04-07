@@ -1,0 +1,12 @@
+BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;BLL.Shapes.Triangle;3
+FF000000
+FF000000
+{X=120,Y=97}
+{X=94,Y=216}
+{X=332,Y=258}
+BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;BLL.Shapes.Triangle;3
+FF000000
+FF000000
+{X=369,Y=78}
+{X=310,Y=157}
+{X=435,Y=226}

@@ -1,0 +1,9 @@
+D:\Projects\C#\OOPL\PluginModule\bin\Debug\PluginModule.dll
+D:\Projects\C#\OOPL\PluginModule\bin\Debug\PluginModule.pdb
+D:\Projects\C#\OOPL\PluginModule\bin\Debug\BLL.dll
+D:\Projects\C#\OOPL\PluginModule\bin\Debug\BLL.pdb
+D:\Projects\C#\OOPL\PluginModule\obj\Debug\PluginModule.csprojResolveAssemblyReference.cache
+D:\Projects\C#\OOPL\PluginModule\obj\Debug\PluginModule.dll
+D:\Projects\C#\OOPL\PluginModule\obj\Debug\PluginModule.pdb
+D:\Projects\C#\OOPL\PluginModule\bin\Debug\OtherPlugin.dll
+D:\Projects\C#\OOPL\PluginModule\bin\Debug\OtherPlugin.pdb

@@ -1,0 +1,8 @@
+D:\Projects\C#\OOPL12\OOPL12.BLL\bin\Debug\OOPL12.BLL.dll
+D:\Projects\C#\OOPL12\OOPL12.BLL\bin\Debug\OOPL12.BLL.pdb
+D:\Projects\C#\OOPL12\OOPL12.BLL\obj\Debug\OOPL12.BLL.dll
+D:\Projects\C#\OOPL12\OOPL12.BLL\obj\Debug\OOPL12.BLL.pdb
+d:\Projects\labs oop\OOPL12\OOPL12.BLL\bin\Debug\OOPL12.BLL.dll
+d:\Projects\labs oop\OOPL12\OOPL12.BLL\bin\Debug\OOPL12.BLL.pdb
+d:\Projects\labs oop\OOPL12\OOPL12.BLL\obj\Debug\OOPL12.BLL.dll
+d:\Projects\labs oop\OOPL12\OOPL12.BLL\obj\Debug\OOPL12.BLL.pdb

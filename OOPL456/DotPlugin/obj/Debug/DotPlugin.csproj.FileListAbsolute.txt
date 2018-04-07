@@ -1,0 +1,9 @@
+D:\Projects\C#\OOPL\DotPlugin\bin\Debug\DotPlugin.dll
+D:\Projects\C#\OOPL\DotPlugin\bin\Debug\DotPlugin.pdb
+D:\Projects\C#\OOPL\DotPlugin\bin\Debug\BLL.dll
+D:\Projects\C#\OOPL\DotPlugin\bin\Debug\OtherPlugin.dll
+D:\Projects\C#\OOPL\DotPlugin\bin\Debug\BLL.pdb
+D:\Projects\C#\OOPL\DotPlugin\bin\Debug\OtherPlugin.pdb
+D:\Projects\C#\OOPL\DotPlugin\obj\Debug\DotPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\C#\OOPL\DotPlugin\obj\Debug\DotPlugin.dll
+D:\Projects\C#\OOPL\DotPlugin\obj\Debug\DotPlugin.pdb

@@ -1,0 +1,7 @@
+D:\Projects\C#\OOPL\StarPlugin\bin\Debug\StarPlugin.dll
+D:\Projects\C#\OOPL\StarPlugin\bin\Debug\StarPlugin.pdb
+D:\Projects\C#\OOPL\StarPlugin\bin\Debug\BLL.dll
+D:\Projects\C#\OOPL\StarPlugin\bin\Debug\BLL.pdb
+D:\Projects\C#\OOPL\StarPlugin\obj\Debug\StarPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\C#\OOPL\StarPlugin\obj\Debug\StarPlugin.dll
+D:\Projects\C#\OOPL\StarPlugin\obj\Debug\StarPlugin.pdb
